@@ -7,9 +7,10 @@ Donald Stegman
 Mike Hughes
 Olesea Armasari
 
-Pulled in data from several sources including yelp and another
-source for hotel information.
+Pulled in data from several sources including yelp and DataInfiniti
+for hotel sourced information.
 
 Each person coded their individual components and uploaded to
 Through commits and pushing to the repository.
+
 
